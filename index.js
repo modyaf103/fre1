@@ -7,7 +7,7 @@ const products = [
         id: 15,
         name: "فريسكا كلاسيك",
         des: " ",
-        image: "image/heee.jpg",
+        image: "heee.jpg",
         weights: ["ساده","عسل ابيض","عسل اسود"],
         prices: [10,15,15],
         category: "الفريسكا"
@@ -493,3 +493,4 @@ document.querySelectorAll('.nav-links a').forEach(link => {
         }
     });
 });
+
